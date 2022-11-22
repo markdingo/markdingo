@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **markdingo/markdingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can find me over on 
+<a rel="me" href="https://hachyderm.io/@markd">Mastodon</a> where I sometimes post about go, DNS and Internet Infrastructure at scale.
