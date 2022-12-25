@@ -1,2 +1,2 @@
 For socializing, you can find me over on 
-<a rel="nofollow me" href="https://hachyderm.io/@markd">Mastodon</a> where I sometimes post about go, DNS and Internet Infrastructure at scale.
+<a href="https://hachyderm.io/@markd"rel="me">Mastodon</a> where I sometimes post about go, DNS and Internet Infrastructure at scale.
